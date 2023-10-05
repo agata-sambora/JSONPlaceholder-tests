@@ -148,6 +148,26 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "Użytkownicy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/users",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
